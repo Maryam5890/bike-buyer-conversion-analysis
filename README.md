@@ -1,8 +1,12 @@
-Bike Buyer Conversion Analysis
+**Bike Buyer Conversion Analysis**
+
 An end-to-end Excel project analyzing customer data for a bike retailer, built to answer a
 simple business question: who actually buys bikes, and what separates a buyer from a
 non-buyer?
-What’s in this project
+
+
+**What’s in this project**
+
 Raw data — 1,026 customer records: demographics (age, gender, marital status,
 education, income, occupation), household info (children, home ownership, cars),
 commute distance, region, and whether they purchased a bike.
