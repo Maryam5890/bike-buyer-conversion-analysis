@@ -23,6 +23,7 @@ chart at once without touching a single formula.
 
 
 **Why this project**
+
 Most sample dashboards just decorate data. This one is built to be interrogated — the
 slicers let you slice the customer base by segment and watch the averages shift in real time,
 which is closer to how a stakeholder actually uses a report in a meeting.
@@ -32,9 +33,12 @@ Nested conditional logic (IF) for feature engineering
 PivotTables and PivotCharts
 Cross-filtering with slicers connected to multiple pivot tables
 Dashboard layout and design for non-technical end users
-A note on the data: this dataset is a well-known public bike-buyer dataset used for
+**A note on the data:**
+This dataset is a well-known public bike-buyer dataset used for
 BI/analytics practice. Nothing in it is proprietary or personal.
-Key Insights & Business Recommendations
+
+**Key Insights & Business Recommendations**
+
 Women convert better than men (41.1% vs. 32.4%) — marketing spend aimed at male
 customers may be underperforming and worth re-evaluating.
 Single customers convert far more than married customers (54.1% vs. 42.9%) —
@@ -49,7 +53,9 @@ different offer, price point, or messaging entirely.
 Business takeaway: the highest-converting customer profile is a single woman in the
 Pacific region — that’s the segment to prioritize in targeted campaigns, while North America
 and lower-education segments need a revised approach rather than the current one.
-Possible next steps
+
+**Possible next steps**
+
 Break out commute distance and cars-owned as their own filterable segments, since
 they’re currently in the raw data but not surfaced on the dashboard
 Test whether income or age is the stronger predictor of purchase by comparing
