@@ -27,12 +27,15 @@ chart at once without touching a single formula.
 Most sample dashboards just decorate data. This one is built to be interrogated — the
 slicers let you slice the customer base by segment and watch the averages shift in real time,
 which is closer to how a stakeholder actually uses a report in a meeting.
-Skills demonstrated
+
+**Skills demonstrated**
+
 Data cleaning and validation in Excel
 Nested conditional logic (IF) for feature engineering
 PivotTables and PivotCharts
 Cross-filtering with slicers connected to multiple pivot tables
 Dashboard layout and design for non-technical end users
+
 **A note on the data:**
 This dataset is a well-known public bike-buyer dataset used for
 BI/analytics practice. Nothing in it is proprietary or personal.
