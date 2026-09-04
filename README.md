@@ -13,12 +13,16 @@ commute distance, region, and whether they purchased a bike.
 Cleaned working sheet — data validated and enriched with a derived Age Range
 column (Young / Middle Age / Old Buyer) using nested IF logic, so age can be analyzed
 as a category instead of just a raw number.
+
 Pivot tables — cross-tabs of average income by gender and purchase outcome, plus
 supporting breakdowns by region, education, and marital status.
+
 Interactive dashboard — a single-page dashboard combining bar, line, and pie charts,
 with three linked slicers (Marital Status, Region, Education) so a viewer can filter every
 chart at once without touching a single formula.
-Why this project
+
+
+**Why this project**
 Most sample dashboards just decorate data. This one is built to be interrogated — the
 slicers let you slice the customer base by segment and watch the averages shift in real time,
 which is closer to how a stakeholder actually uses a report in a meeting.
